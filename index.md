@@ -26,12 +26,12 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
-- **Strong Leakage and Tamper-Resilient Public Key Encryption from Reﬁned Hash Proof Systems**
-  Shi-Feng Sun, Dawu Gu, Man Ho Au, Shuai Han, Yu Yu, and Joseph Liu
+- **Strong Leakage and Tamper-Resilient Public Key Encryption from Reﬁned Hash Proof Systems**  
+  Shi-Feng Sun, Dawu Gu, Man Ho Au, Shuai Han, Yu Yu, and Joseph Liu  
   In _Proceedings of the 17th International Conference on Applied Cryptography and Network Security_ ([**ACNS** 2019](https://www.acns19.com/)), to appear
 
-- **Tightly SIM-SO-CCA Secure Public Key Encryption from Standard Assumptions**  [[eprint](https://eprint.iacr.org/2018/030)]
-  Lin Lyu, Shengli Liu, Shuai Han, and Dawu Gu
+- **Tightly SIM-SO-CCA Secure Public Key Encryption from Standard Assumptions**  [[eprint](https://eprint.iacr.org/2018/030)]  
+  Lin Lyu, Shengli Liu, Shuai Han, and Dawu Gu  
   In _Proceedings of the 21st International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2018](https://pkc.iacr.org/2018/))
 
 KDM-Secure Public-Key Encryption from Constant-Noise LPN  [eprint] [slides]
