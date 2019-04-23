@@ -19,7 +19,7 @@ Postdoctoral researcher, [**Karlsruhe Institute of Technology**](http://www.kit.
 
 PH.D. in Computer Science, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2012 - Sep 2017
 - Advisor: Prof. [**Shengli Liu**](http://english.seiee.sjtu.edu.cn/english/detail/841_671.htm)
-- PH.D. dissertation: *Public-Key Encryption: KDM Security and RKA Security*  [pdf, in Chinese](https://drive.google.com/file/d/0B2HM31q0Q1sUWEFVVVR6d1dHQTQ/view) [slides, in Chinese](https://drive.google.com/file/d/0B2HM31q0Q1sUTVNOenNzbU8xcnc/view)
+- PH.D. dissertation: **Public-Key Encryption: KDM Security and RKA Security**  [[pdf, in Chinese](https://drive.google.com/file/d/0B2HM31q0Q1sUWEFVVVR6d1dHQTQ/view)] [[slides, in Chinese](https://drive.google.com/file/d/0B2HM31q0Q1sUTVNOenNzbU8xcnc/view)]
 
 B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu.cn/goto/en)), [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2008 - Jun 2012
 - Thesis Supervisor: Prof. [**Shengli Liu**](http://english.seiee.sjtu.edu.cn/english/detail/841_671.htm)
