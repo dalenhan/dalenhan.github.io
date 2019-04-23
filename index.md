@@ -34,35 +34,29 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
   Lin Lyu, Shengli Liu, Shuai Han, and Dawu Gu  
   In _Proceedings of the 21st International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2018](https://pkc.iacr.org/2018/))
 
-KDM-Secure Public-Key Encryption from Constant-Noise LPN  [eprint] [slides]
-Shuai Han, and Shengli Liu
+- **KDM-Secure Public-Key Encryption from Constant-Noise LPN**  [[eprint](https://eprint.iacr.org/2017/310)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUU2Zwelh5WFctX3M/view)]  
+  Shuai Han, and Shengli Liu  
+  In _Proceedings of the 22nd Australasian Conference on Information Security and Privacy_ ([**ACISP** 2017](http://acisp.massey.ac.nz/))
 
-In Proceedings of the 22nd Australasian Conference on Information Security and Privacy (ACISP 2017)
+- **Efficient KDM-CCA Secure Public-Key Encryption for Polynomial Functions**  [[eprint](https://eprint.iacr.org/2016/829)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUczVfRW5fWENaeE0/view)]  
+  Shuai Han, Shengli Liu, and Lin Lyu  
+  In _Proceedings of the 22nd International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2016](https://www.iacr.org/conferences/asiacrypt2016/www.asiacrypt2016.org/index.html))
 
-Efficient KDM-CCA Secure Public-Key Encryption for Polynomial Functions  [eprint] [slides]
-Shuai Han, Shengli Liu, and Lin Lyu
+- **How to Make the Cramer-Shoup Cryptosystem Secure Against Linear Related-Key Attacks**  
+  Baodong Qin, Shuai Han, Yu Chen, Shengli Liu, and Zhuo Wei  
+  In _Proceedings of the 12th International Conference on Information Security and Cryptology_ ([**INSCRYPT** 2016](http://www.inscrypt.cn/))
 
-In Proceedings of the 22nd International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2016)
+- **Homomorphic Linear Authentication Schemes from epsilon-Authentication Codes**  [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sURV9VTU9XUFBCVnc/view)]  
+  Shuai Han, Shengli Liu, Fangguo Zhang, and Kefei Chen  
+  In _Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security_ ([**ASIACCS** 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/))
 
-How to Make the Cramer-Shoup Cryptosystem Secure Against Linear Related-Key Attacks
-Baodong Qin, Shuai Han, Yu Chen, Shengli Liu, and Zhuo Wei
+- **An Efficient Key-Versatile KDM-Secure Storage Scheme**  [[pdf](https://drive.google.com/file/d/0B2HM31q0Q1sUTmVvX2FyNDVzM0k/view)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUcmJ0Y2F0cXJjOUk/view)]  
+  Chenglong Ying, Shengli Liu, and Shuai Han  
+  In _Proceedings of the International Conference on Computational Science and Engineering Applications_ ([**CSEA** 2015](https://www.destechpub.com/product/international-conference-computational-science-engineering-applications-csea-2015/))
 
-In Proceedings of the 12th International Conference on Information Security and Cryptology (INSCRYPT 2016)
-
-Homomorphic Linear Authentication Schemes from epsilon-Authentication Codes  [slides]
-Shuai Han, Shengli Liu, Fangguo Zhang, and Kefei Chen
-
-In Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security (ASIACCS 2016)
-
-An Efficient Key-Versatile KDM-Secure Storage Scheme  [pdf] [slides]
-Chenglong Ying, Shengli Liu, and Shuai Han
-
-In Proceedings of the International Conference on Computational Science and Engineering Applications (CSEA 2015)
-
-Proofs of Retrievability Based on MRD Codes  [eprint] [slides]
-Shuai Han, Shengli Liu, Kefei Chen, and Dawu Gu
-
-In Proceedings of the 10th International Conference on Information Security Practice and Experience (ISPEC 2014)
+- **Proofs of Retrievability Based on MRD Codes**  [[eprint](https://eprint.iacr.org/2013/789)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUY0JrYlZqWUljck0/view)]  
+  Shuai Han, Shengli Liu, Kefei Chen, and Dawu Gu  
+  In _Proceedings of the 10th International Conference on Information Security Practice and Experience_ ([**ISPEC** 2014](http://trust.csu.edu.cn/conference/ispec2014/))
 
 ## Journal Papers
 
