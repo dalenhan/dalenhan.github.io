@@ -1,3 +1,13 @@
+## Research Interest
+
+My research interests focus on public-key cryptography with provable security. 
+
+In particular, I am interested in the design of cryptographic schemes
+
+- immune to new types of attacks, including key-dependent message attack (KDM), related-key attack (RKA), key-leakage attack (KLA) and selective-opening attack (SOA);
+- enjoying a tight security reduction to computational assumptions;
+- based on the intractability of factoring-based (DCR), pairing-based (DDH, DLIN) or lattice (LWE, LPN) problems.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dalenhan/shuaihan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
