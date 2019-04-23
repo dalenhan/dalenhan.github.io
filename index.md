@@ -60,75 +60,61 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
-QANIZK for Adversary-Dependent Languages and Their Applications
-Shuai Han, Shengli Liu, and Lin Lyu
+- **QANIZK for Adversary-Dependent Languages and Their Applications**  
+  Shuai Han, Shengli Liu, and Lin Lyu  
+  _Theoretical Computer Science_ (2019, to appear)
 
-Theoretical Computer Science (2019, to appear)
+- **New Insights on Linear Cryptanalysis**  
+  Zhiqiang Liu, Shuai Han, Qingju Wang, Wei Li, Ya Liu, and Dawu Gu  
+  _Science China Information Sciences_ (2019, to appear)
 
-New Insights on Linear Cryptanalysis
-Zhiqiang Liu, Shuai Han, Qingju Wang, Wei Li, Ya Liu, and Dawu Gu
+- **Proofs of Retrievability from Linearly Homomorphic Structure-Preserving Signatures**  
+  Xiao Zhang, Shengli Liu, and Shuai Han  
+  _International Journal of Information and Computer Security_ (2019)
 
-Science China Information Sciences (2019, to appear)
+- **Tightly Secure Encryption Schemes against Related-Key Attacks**  
+  Shuai Han, Shengli Liu, Lin Lyu, and Dawu Gu  
+  _The Computer Journal_ (2018)
 
-Proofs of Retrievability from Linearly Homomorphic Structure-Preserving Signatures
-Xiao Zhang, Shengli Liu, and Shuai Han
+- **Computational Robust Fuzzy Extractor**  
+  Yunhua Wen, Shengli Liu, Ziyuan Hu, and Shuai Han  
+  _The Computer Journal_ (2018)
 
-International Journal of Information and Computer Security (2019)
+- **Reusable Fuzzy Extractor from the Decisional Diffie-Hellman Assumption**  
+  Yunhua Wen, Shengli Liu, and Shuai Han  
+  _Designs, Codes and Cryptography_ (2018)
 
-Tightly Secure Encryption Schemes against Related-Key Attacks
-Shuai Han, Shengli Liu, Lin Lyu, and Dawu Gu
+- **Super-Strong RKA Secure MAC, PKE and SE from Tag-based Hash Proof System**  [[eprint](https://eprint.iacr.org/2016/1051)]  
+  Shuai Han, Shengli Liu, and Lin Lyu  
+  _Designs, Codes and Cryptography_ (2018)
 
-The Computer Journal (2018)
+- **Tightly CCA-Secure Identity-Based Encryption with Ciphertext Pseudorandomness**  
+  Shuai Han, Shengli Liu, Baodong Qing, and Dawu Gu  
+  _Designs, Codes and Cryptography_ (2018)
 
-Computational Robust Fuzzy Extractor
-Yunhua Wen, Shengli Liu, Ziyuan Hu, and Shuai Han
+- **Public-Key Encryption with Tight Simulation-Based Selective-Opening Security**  
+  Lin Lyu, Shengli Liu, and Shuai Han  
+  _The Computer Journal_ (2018)
 
-The Computer Journal (2018)
+- **Efficient KDM-CCA Secure Public-Key Encryption via Auxiliary-Input Authenticated Encryption**  
+  Shuai Han, Shengli Liu, and Lin Lyu  
+  _Security and Communication Networks_ (2017)
 
-Reusable Fuzzy Extractor from the Decisional Diffie-Hellman Assumption
-Yunhua Wen, Shengli Liu, and Shuai Han
+- **Public Key Cryptosystems Secure Against Memory Leakage Attacks**  
+  Shi-Feng Sun, Shuai Han, Dawu Gu, and Shengli Liu  
+  _IET Information Security_ (2016)
 
-Designs, Codes and Cryptography (2018)
-
-Super-Strong RKA Secure MAC, PKE and SE from Tag-based Hash Proof System  [eprint]
-Shuai Han, Shengli Liu, and Lin Lyu
-
-Designs, Codes and Cryptography (2018)
-
-Tightly CCA-Secure Identity-Based Encryption with Ciphertext Pseudorandomness
-Shuai Han, Shengli Liu, Baodong Qing, and Dawu Gu
-
-Designs, Codes and Cryptography (2018)
-
-Public-Key Encryption with Tight Simulation-Based Selective-Opening Security
-Lin Lyu, Shengli Liu, and Shuai Han
-
-The Computer Journal (2018)
-
-Efficient KDM-CCA Secure Public-Key Encryption via Auxiliary-Input Authenticated Encryption
-Shuai Han, Shengli Liu, and Lin Lyu
-
-Security and Communication Networks (2017)
-
-Public Key Cryptosystems Secure Against Memory Leakage Attacks
-Shi-Feng Sun, Shuai Han, Dawu Gu, and Shengli Liu
-
-IET Information Security (2016)
-
-Improved Bounds on Negativity of Superpositions
-Zhihao Ma, Zhihua Chen, Shuai Han, Shaoming Fei, and Simone Severini
-
-Quantum Information and Computation (2012)
+- **Improved Bounds on Negativity of Superpositions**  
+  Zhihao Ma, Zhihua Chen, Shuai Han, Shaoming Fei, and Simone Severini  
+  _Quantum Information and Computation_ (2012)
 
 ## Academic Service
 
 I have served as  external reviewer for several top-tier cryptography conferences and journal.
-
-Conference reviewer: 
-Pairing 2013,  ASIACRYPT 2014-2017,  CRYPTO 2016,  ISPEC 2016,  ACISP 2016-2017, TCC 2017.
-
-Journal reviewer: 
-IEEE Transactions on Information Forensics and Security.
+- Conference reviewer:  
+  **Pairing** 2013,  **ASIACRYPT** 2014-2017,  **CRYPTO** 2016,  **ISPEC** 2016,  **ACISP** 2016-2017, **TCC** 2017.
+- Journal reviewer:   
+  IEEE Transactions on Information Forensics and Security.
 
 ## Welcome to GitHub Pages
 
