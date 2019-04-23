@@ -12,9 +12,9 @@ In particular, I am interested in the design of cryptographic schemes
 
 ## Experience
 
-Algorithm engineer II, [**Ant Financial**](https://www.antfin.com/), China                                <p align="right">Dec 2018 - Present</p>
+Algorithm engineer II, [**Ant Financial**](https://www.antfin.com/), China <p align="right">Dec 2018 - Present</p>
 
-Postdoctoral researcher, [**Karlsruhe Institute of Technology**](http://www.kit.edu/english/), Germany        <p align="right">Oct 2017 - Sep 2018</p>
+Postdoctoral researcher, [**Karlsruhe Institute of Technology**](http://www.kit.edu/english/), Germany <p align="right">Oct 2017 - Sep 2018</p>
 - Advisor: Prof. [**Dennis Hofheinz**](https://crypto.iti.kit.edu/index.php?id=hofheinz)
 
 ## Welcome to GitHub Pages
