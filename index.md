@@ -24,6 +24,118 @@ PH.D. in Computer Science, [**Shanghai Jiao Tong University**](http://en.sjtu.ed
 B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu.cn/goto/en)), [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2008 - Jun 2012
 - Thesis Supervisor: Prof. [**Shengli Liu**](http://english.seiee.sjtu.edu.cn/english/detail/841_671.htm)
 
+## Conference Papers
+
+- **Strong Leakage and Tamper-Resilient Public Key Encryption from Reﬁned Hash Proof Systems**
+  Shi-Feng Sun, Dawu Gu, Man Ho Au, Shuai Han, Yu Yu, and Joseph Liu
+  In _Proceedings of the 17th International Conference on Applied Cryptography and Network Security_ ([**ACNS** 2019](https://www.acns19.com/)), to appear
+
+- **Tightly SIM-SO-CCA Secure Public Key Encryption from Standard Assumptions**  [[eprint](https://eprint.iacr.org/2018/030)]
+  Lin Lyu, Shengli Liu, Shuai Han, and Dawu Gu
+  In _Proceedings of the 21st International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2018](https://pkc.iacr.org/2018/))
+
+KDM-Secure Public-Key Encryption from Constant-Noise LPN  [eprint] [slides]
+Shuai Han, and Shengli Liu
+
+In Proceedings of the 22nd Australasian Conference on Information Security and Privacy (ACISP 2017)
+
+Efficient KDM-CCA Secure Public-Key Encryption for Polynomial Functions  [eprint] [slides]
+Shuai Han, Shengli Liu, and Lin Lyu
+
+In Proceedings of the 22nd International Conference on the Theory and Application of Cryptology and Information Security (ASIACRYPT 2016)
+
+How to Make the Cramer-Shoup Cryptosystem Secure Against Linear Related-Key Attacks
+Baodong Qin, Shuai Han, Yu Chen, Shengli Liu, and Zhuo Wei
+
+In Proceedings of the 12th International Conference on Information Security and Cryptology (INSCRYPT 2016)
+
+Homomorphic Linear Authentication Schemes from epsilon-Authentication Codes  [slides]
+Shuai Han, Shengli Liu, Fangguo Zhang, and Kefei Chen
+
+In Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security (ASIACCS 2016)
+
+An Efficient Key-Versatile KDM-Secure Storage Scheme  [pdf] [slides]
+Chenglong Ying, Shengli Liu, and Shuai Han
+
+In Proceedings of the International Conference on Computational Science and Engineering Applications (CSEA 2015)
+
+Proofs of Retrievability Based on MRD Codes  [eprint] [slides]
+Shuai Han, Shengli Liu, Kefei Chen, and Dawu Gu
+
+In Proceedings of the 10th International Conference on Information Security Practice and Experience (ISPEC 2014)
+
+## Journal Papers
+
+QANIZK for Adversary-Dependent Languages and Their Applications
+Shuai Han, Shengli Liu, and Lin Lyu
+
+Theoretical Computer Science (2019, to appear)
+
+New Insights on Linear Cryptanalysis
+Zhiqiang Liu, Shuai Han, Qingju Wang, Wei Li, Ya Liu, and Dawu Gu
+
+Science China Information Sciences (2019, to appear)
+
+Proofs of Retrievability from Linearly Homomorphic Structure-Preserving Signatures
+Xiao Zhang, Shengli Liu, and Shuai Han
+
+International Journal of Information and Computer Security (2019)
+
+Tightly Secure Encryption Schemes against Related-Key Attacks
+Shuai Han, Shengli Liu, Lin Lyu, and Dawu Gu
+
+The Computer Journal (2018)
+
+Computational Robust Fuzzy Extractor
+Yunhua Wen, Shengli Liu, Ziyuan Hu, and Shuai Han
+
+The Computer Journal (2018)
+
+Reusable Fuzzy Extractor from the Decisional Diffie-Hellman Assumption
+Yunhua Wen, Shengli Liu, and Shuai Han
+
+Designs, Codes and Cryptography (2018)
+
+Super-Strong RKA Secure MAC, PKE and SE from Tag-based Hash Proof System  [eprint]
+Shuai Han, Shengli Liu, and Lin Lyu
+
+Designs, Codes and Cryptography (2018)
+
+Tightly CCA-Secure Identity-Based Encryption with Ciphertext Pseudorandomness
+Shuai Han, Shengli Liu, Baodong Qing, and Dawu Gu
+
+Designs, Codes and Cryptography (2018)
+
+Public-Key Encryption with Tight Simulation-Based Selective-Opening Security
+Lin Lyu, Shengli Liu, and Shuai Han
+
+The Computer Journal (2018)
+
+Efficient KDM-CCA Secure Public-Key Encryption via Auxiliary-Input Authenticated Encryption
+Shuai Han, Shengli Liu, and Lin Lyu
+
+Security and Communication Networks (2017)
+
+Public Key Cryptosystems Secure Against Memory Leakage Attacks
+Shi-Feng Sun, Shuai Han, Dawu Gu, and Shengli Liu
+
+IET Information Security (2016)
+
+Improved Bounds on Negativity of Superpositions
+Zhihao Ma, Zhihua Chen, Shuai Han, Shaoming Fei, and Simone Severini
+
+Quantum Information and Computation (2012)
+
+## Academic Service
+
+I have served as  external reviewer for several top-tier cryptography conferences and journal.
+
+Conference reviewer: 
+Pairing 2013,  ASIACRYPT 2014-2017,  CRYPTO 2016,  ISPEC 2016,  ACISP 2016-2017, TCC 2017.
+
+Journal reviewer: 
+IEEE Transactions on Information Forensics and Security.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dalenhan/shuaihan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
