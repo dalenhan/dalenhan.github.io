@@ -25,6 +25,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **Tight Leakage-Resilient CCA-Security from Quasi-Adaptive Hash Proof System**  [[eprint](https://eprint.iacr.org/2019/512)]  
+  Shuai Han, Shengli Liu, Lin Lyu, and Dawu Gu  
+  In _Proceedings of the 39th International Cryptology Conference_ ([**CRYPTO** 2019](https://crypto.iacr.org/2019/)), to appear
+
 - **Strong Leakage and Tamper-Resilient Public Key Encryption from Reﬁned Hash Proof Systems**  
   Shi-Feng Sun, Dawu Gu, Man Ho Au, Shuai Han, Yu Yu, and Joseph Liu  
   In _Proceedings of the 17th International Conference on Applied Cryptography and Network Security_ ([**ACNS** 2019](https://www.acns19.com/)), to appear
