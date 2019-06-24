@@ -65,7 +65,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 - **QANIZK for Adversary-Dependent Languages and Their Applications**  
   Shuai Han, Shengli Liu, and Lin Lyu  
-  _Theoretical Computer Science_ (2019, to appear)
+  _Theoretical Computer Science_ (2019)
 
 - **New Insights on Linear Cryptanalysis**  
   Zhiqiang Liu, Shuai Han, Qingju Wang, Wei Li, Ya Liu, and Dawu Gu  
