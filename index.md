@@ -63,14 +63,14 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **New Insights on Linear Cryptanalysis**  
+  Zhiqiang Liu, Shuai Han, Qingju Wang, Wei Li, Ya Liu, and Dawu Gu  
+  _Science China Information Sciences_ (2020, to appear)
+  
 - **QANIZK for Adversary-Dependent Languages and Their Applications**  
   Shuai Han, Shengli Liu, and Lin Lyu  
   _Theoretical Computer Science_ (2019)
-
-- **New Insights on Linear Cryptanalysis**  
-  Zhiqiang Liu, Shuai Han, Qingju Wang, Wei Li, Ya Liu, and Dawu Gu  
-  _Science China Information Sciences_ (2019, to appear)
-
+  
 - **Proofs of Retrievability from Linearly Homomorphic Structure-Preserving Signatures**  
   Xiao Zhang, Shengli Liu, and Shuai Han  
   _International Journal of Information and Computer Security_ (2019)
