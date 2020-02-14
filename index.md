@@ -63,9 +63,13 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Multilinear Maps from Obfuscation**  
+  Martin R. Albrecht, Pooya Farshim, Shuai Han, Dennis Hofheinz, Enrique Larraia, and Kenneth G. Paterson  
+  _Journal of Cryptology_ (2020, to appear)
+  
 - **New Insights on Linear Cryptanalysis**  
   Zhiqiang Liu, Shuai Han, Qingju Wang, Wei Li, Ya Liu, and Dawu Gu  
-  _Science China Information Sciences_ (2020, to appear)
+  _Science China Information Sciences_ (2020)
   
 - **QANIZK for Adversary-Dependent Languages and Their Applications**  
   Shuai Han, Shengli Liu, and Lin Lyu  
