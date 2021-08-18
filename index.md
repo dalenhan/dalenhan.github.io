@@ -27,6 +27,14 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **Authenticated Key Exchange and Signatures with Tight Security in the Standard Model**  [[eprint](https://eprint.iacr.org/2021/863)]  
+  Shuai Han, Tibor Jager, Eike Kiltz, Shengli Liu, Jiaxin Pan, Doreen Riepel, Sven Schäge
+  In _Proceedings of the 41st International Cryptology Conference_ ([**CRYPTO** 2021](https://crypto.iacr.org/2021/))
+
+- **Authentication System Based on Fuzzy Extractors**  
+  Mingming Jiang, Shengli Liu, Shuai Han, Dawu Gu
+  In _Proceedings of the 16th International Conference on Wireless Algorithms, Systems, and Applications_ ([**WASA** 2021](http://wasa-conference.org/WASA2021/))
+
 - **Tight Leakage-Resilient CCA-Security from Quasi-Adaptive Hash Proof System**  [[eprint](https://eprint.iacr.org/2019/512)]  
   Shuai Han, Shengli Liu, Lin Lyu, and Dawu Gu  
   In _Proceedings of the 39th International Cryptology Conference_ ([**CRYPTO** 2019](https://crypto.iacr.org/2019/))
@@ -119,8 +127,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Academic Service
 
-I have served as  external reviewer for several top-tier cryptography conferences and journal.
+I have served as program committee member and external reviewer for several top-tier cryptography conferences and journal.
+- Program committee member:
+  **Inscrypt** 2021.
 - Conference reviewer:  
-  **Pairing** 2013,  **ASIACRYPT** 2014-2017,  **CRYPTO** 2016,  **ISPEC** 2016,  **ACISP** 2016-2017, 2020, **TCC** 2017, **ICISC** 2019, **EUROCRYPT** 2020, **PKC** 2020.
+  **Pairing** 2013,  **ASIACRYPT** 2014-2017, 2021,  **CRYPTO** 2016, 2021,  **ISPEC** 2016,  **ACISP** 2016-2017, 2020, **TCC** 2017, **ICISC** 2019, **EUROCRYPT** 2020, 2021,  **PKC** 2020,  **ProvSec** 2020.
 - Journal reviewer:   
-  IEEE Transactions on Information Forensics and Security, Frontiers of Computer Science, IEEE Wireless Communications Magazine, Security and Communication Networks.
+  IEEE Transactions on Information Forensics and Security, Designs, Codes and Cryptography, Security and Communication Networks, Frontiers of Computer Science, IEEE Wireless Communications Magazine.
