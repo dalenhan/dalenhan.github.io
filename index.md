@@ -127,7 +127,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Academic Service
 
-I have served as program committee member and external reviewer for several top-tier cryptography conferences and journal.  
+I have served as program committee member and external reviewer for several cryptography conferences and journals.  
 
 - Program committee member:  
   **Inscrypt** 2021.
