@@ -11,7 +11,7 @@ In particular, I am interested in the design of cryptographic schemes
 
 Tenure-track assistant professor, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Jul 2020 - Present
 
-Algorithm engineer II, [**Ant Group**](https://www.antgroup.com/), China, Dec 2018 - Jun 2020
+Algorithm engineer II, [**Ant Group**](https://www.antgroup.com/en), China, Dec 2018 - Jun 2020
 
 Postdoctoral researcher, [**Karlsruhe Institute of Technology**](http://www.kit.edu/english/), Germany, Oct 2017 - Sep 2018
 - Advisor: Prof. [**Dennis Hofheinz**](https://crypto.iti.kit.edu/index.php?id=hofheinz)
