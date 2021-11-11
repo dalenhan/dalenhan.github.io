@@ -28,19 +28,19 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 ## Conference Papers
 
 - **Key Encapsulation Mechanism with Tight Enhanced Security in the Multi-User Setting: Impossibility Result and Optimal Tightness**  [[eprint](https://eprint.iacr.org/2021/1146)]  
-  Shuai Han, Shengli Liu, Dawu Gu  
+  Shuai Han, Shengli Liu, and Dawu Gu  
   In _Proceedings of the 27th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2021](https://asiacrypt.iacr.org/2021/))
   
 - **Optimized Paillier's Cryptosystem with Fast Encryption and Decryption**  
-  Huanyu Ma, Shuai Han, Hao Lei  
+  Huanyu Ma, Shuai Han, and Hao Lei  
   In _Proceedings of the 37th Annual Computer Security Applications Conference_ ([**ACSAC** 2021](https://www.acsac.org/2021/))
 
 - **Authenticated Key Exchange and Signatures with Tight Security in the Standard Model**  [[eprint](https://eprint.iacr.org/2021/863)]  
-  Shuai Han, Tibor Jager, Eike Kiltz, Shengli Liu, Jiaxin Pan, Doreen Riepel, Sven Schäge  
+  Shuai Han, Tibor Jager, Eike Kiltz, Shengli Liu, Jiaxin Pan, Doreen Riepel, and Sven Schäge  
   In _Proceedings of the 41st International Cryptology Conference_ ([**CRYPTO** 2021](https://crypto.iacr.org/2021/))
 
 - **Authentication System Based on Fuzzy Extractors**  
-  Mingming Jiang, Shengli Liu, Shuai Han, Dawu Gu  
+  Mingming Jiang, Shengli Liu, Shuai Han, and Dawu Gu  
   In _Proceedings of the 16th International Conference on Wireless Algorithms, Systems, and Applications_ ([**WASA** 2021](http://wasa-conference.org/WASA2021/))
 
 - **Tight Leakage-Resilient CCA-Security from Quasi-Adaptive Hash Proof System**  [[eprint](https://eprint.iacr.org/2019/512)]  
@@ -81,6 +81,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Pseudorandom Functions in NC Class from the Standard LWE Assumption**  
+  Yiming Li, Shengli Liu, Shuai Han, and Dawu Gu  
+  _Designs, Codes and Cryptography_ (2021)
+  
 - **Multilinear Maps from Obfuscation**  
   Martin R. Albrecht, Pooya Farshim, Shuai Han, Dennis Hofheinz, Enrique Larraia, and Kenneth G. Paterson  
   _Journal of Cryptology_ (2020)
