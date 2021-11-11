@@ -31,6 +31,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
   Shuai Han, Shengli Liu, Dawu Gu  
   In _Proceedings of the 27th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2021](https://asiacrypt.iacr.org/2021/))
   
+- **Optimized Paillier's Cryptosystem with Fast Encryption and Decryption**  
+  Huanyu Ma, Shuai Han, Hao Lei  
+  In _Proceedings of the 37th Annual Computer Security Applications Conference_ ([**ACSAC** 2021](https://www.acsac.org/2021/))
+
 - **Authenticated Key Exchange and Signatures with Tight Security in the Standard Model**  [[eprint](https://eprint.iacr.org/2021/863)]  
   Shuai Han, Tibor Jager, Eike Kiltz, Shengli Liu, Jiaxin Pan, Doreen Riepel, Sven Schäge  
   In _Proceedings of the 41st International Cryptology Conference_ ([**CRYPTO** 2021](https://crypto.iacr.org/2021/))
