@@ -11,7 +11,7 @@ In particular, I am interested in the design of cryptographic schemes
 
 Tenure-track assistant professor, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Jul 2020 - Present
 
-Algorithm engineer II, [**Ant Group**](https://www.antgroup.com/en), China, Dec 2018 - Jun 2020
+Cyptographic algorithm engineer, [**Ant Group**](https://www.antgroup.com/en), China, Dec 2018 - Jun 2020
 
 Postdoctoral researcher, [**Karlsruhe Institute of Technology**](http://www.kit.edu/english/), Germany, Oct 2017 - Sep 2018
 - Advisor: Prof. [**Dennis Hofheinz**](https://crypto.iti.kit.edu/index.php?id=hofheinz)
@@ -27,6 +27,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **Key Encapsulation Mechanism with Tight Enhanced Security in the Multi-User Setting: Impossibility Result and Optimal Tightness**  [[eprint](https://eprint.iacr.org/2021/1146)]  
+  Shuai Han, Shengli Liu, Dawu Gu  
+  In _Proceedings of the 27th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2021](https://asiacrypt.iacr.org/2021/))
+  
 - **Authenticated Key Exchange and Signatures with Tight Security in the Standard Model**  [[eprint](https://eprint.iacr.org/2021/863)]  
   Shuai Han, Tibor Jager, Eike Kiltz, Shengli Liu, Jiaxin Pan, Doreen Riepel, Sven Schäge  
   In _Proceedings of the 41st International Cryptology Conference_ ([**CRYPTO** 2021](https://crypto.iacr.org/2021/))
@@ -139,4 +143,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_.
 
 
-Last updated: Aug 2021
+Last updated: Nov 2021
