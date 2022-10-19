@@ -27,6 +27,18 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **Privacy-Preserving Authenticated Key Exchange in the Standard Model**  [[eprint](https://eprint.iacr.org/2022/1217)]  
+  You Lyu, Shengli Liu, Shuai Han, and Dawu Gu  
+  In _Proceedings of the 28th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2022](https://asiacrypt.iacr.org/2022/))
+  
+- **Anonymous Public Key Encryption under Corruptions**  [[eprint](https://eprint.iacr.org/2022/1176)]  
+  Zhengan Huang, Junzuo Lai, Shuai Han, Lin Lyu, and Jian Weng  
+  In _Proceedings of the 28th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2022](https://asiacrypt.iacr.org/2022/))
+  
+- **Fuzzy Authenticated Key Exchange with Tight Security**  
+  Mingming Jiang, Shengli Liu, Shuai Han, and Dawu Gu  
+  In _Proceedings of the 27th European Symposium on Research in Computer Security_ ([**ESORICS** 2022](https://esorics2022.compute.dtu.dk/))
+  
 - **Key Encapsulation Mechanism with Tight Enhanced Security in the Multi-User Setting: Impossibility Result and Optimal Tightness**  [[eprint](https://eprint.iacr.org/2021/1146)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
   In _Proceedings of the 27th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2021](https://asiacrypt.iacr.org/2021/))
@@ -81,6 +93,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Tightly CCA-secure Inner Product Functional Encryption Scheme**  
+  Xiangyu Liu, Shengli Liu, Shuai Han, and Dawu Gu  
+  _Theoretical Computer Science_ (2022)
+  
 - **Pseudorandom Functions in NC Class from the Standard LWE Assumption**  
   Yiming Li, Shengli Liu, Shuai Han, and Dawu Gu  
   _Designs, Codes and Cryptography_ (2021)
@@ -151,4 +167,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_.
 
 
-Last updated: Nov 2021
+Last updated: Oct 2022
