@@ -93,6 +93,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Generic Construction of 1-out-of-n Oblivious Signatures**  
+  Yu Zhou, Shengli Liu, and Shuai Han  
+  _IEICE Transactions on Information and Systems_ (2022)
+  
 - **Tightly CCA-secure Inner Product Functional Encryption Scheme**  
   Xiangyu Liu, Shengli Liu, Shuai Han, and Dawu Gu  
   _Theoretical Computer Science_ (2022)
@@ -158,13 +162,13 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 I have served as program committee member and external reviewer for several cryptography conferences and journals.  
 
 - Program committee member:  
-  **Inscrypt** 2021,  **APKC** 2022,  **AsiaJCIS** 2022,  **SocialSec** 2022.
+  **Inscrypt** 2021,  **APKC** 2022-2023,  **AsiaJCIS** 2022,  **SocialSec** 2022.
 
 - Conference external reviewer:  
-  **Pairing** 2013,  **ASIACRYPT** 2014-2017, 2021, 2022,  **CRYPTO** 2016, 2021,  **ISPEC** 2016,  **ACISP** 2016-2017, 2020, **TCC** 2017, **ICISC** 2019, **EUROCRYPT** 2020, 2021,  **PKC** 2020,  **ProvSec** 2020.
+  **Pairing** 2013,  **ASIACRYPT** 2014-2017, 2021-2022,  **CRYPTO** 2016, 2021,  **ISPEC** 2016,  **ACISP** 2016-2017, 2020, **TCC** 2017, **ICISC** 2019, **EUROCRYPT** 2020-2023, **PKC** 2020,  **ProvSec** 2020.
 
 - Journal external reviewer:   
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_.
 
 
-Last updated: Oct 2022
+Last updated: Feb 2023
