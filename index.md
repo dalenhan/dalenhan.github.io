@@ -27,6 +27,18 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **Almost Tight Multi-User Security under Adaptive Corruptions & Leakages in the Standard Model**  [[eprint](https://eprint.iacr.org/2023/153)]  
+  Shuai Han, Shengli Liu, and Dawu Gu  
+  In _Proceedings of the 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques_ ([**EUROCRYPT** 2023](https://eurocrypt.iacr.org/2023/))
+  
+- **Fine-grained Verifier NIZK and Its Applications**  
+  Xiangyu Liu, Shengli Liu, Shuai Han, and Dawu Gu  
+  In _Proceedings of the 26th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2023](https://pkc.iacr.org/2023/))
+  
+- **EKE Meets Tight Security in the Universally Composable Framework**  [[eprint](https://eprint.iacr.org/2023/170)]  
+  Xiangyu Liu, Shengli Liu, Shuai Han, and Dawu Gu  
+  In _Proceedings of the 26th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2023](https://pkc.iacr.org/2023/))
+  
 - **Privacy-Preserving Authenticated Key Exchange in the Standard Model**  [[eprint](https://eprint.iacr.org/2022/1217)]  
   You Lyu, Shengli Liu, Shuai Han, and Dawu Gu  
   In _Proceedings of the 28th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2022](https://asiacrypt.iacr.org/2022/))
