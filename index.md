@@ -109,7 +109,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
-- **Simulatable Verifiable Random Function from The LWE Assumption**  
+- **Simulatable Verifiable Random Function from the LWE Assumption**  
   Yiming Li, Shengli Liu, Shuai Han, Dawu Gu, and Jian Weng  
   _Theoretical Computer Science_ (2023)
   
