@@ -27,6 +27,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **Almost Tight Multi-User Security under Adaptive Corruptions from LWE in the Standard Model**  
+  Shuai Han, Shengli Liu, Zhedong Wang, and Dawu Gu  
+  In _Proceedings of the 43rd International Cryptology Conference_ ([**CRYPTO** 2023](https://crypto.iacr.org/2023/))
+  
 - **Almost Tight Multi-User Security under Adaptive Corruptions & Leakages in the Standard Model**  [[eprint](https://eprint.iacr.org/2023/153)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
   In _Proceedings of the 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques_ ([**EUROCRYPT** 2023](https://eurocrypt.iacr.org/2023/))
@@ -105,6 +109,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Simulatable Verifiable Random Function from The LWE Assumption**  
+  Yiming Li, Shengli Liu, Shuai Han, Dawu Gu, and Jian Weng  
+  _Theoretical Computer Science_ (2023)
+  
 - **Generic Construction of 1-out-of-n Oblivious Signatures**  
   Yu Zhou, Shengli Liu, and Shuai Han  
   _IEICE Transactions on Information and Systems_ (2022)
@@ -183,4 +191,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_.
 
 
-Last updated: Feb 2023
+Last updated: May 2023
