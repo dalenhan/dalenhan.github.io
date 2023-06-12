@@ -25,6 +25,16 @@ PH.D. in Computer Science, [**Shanghai Jiao Tong University**](http://en.sjtu.ed
 B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu.cn/goto/en)), [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2008 - Jun 2012
 - Thesis Supervisor: Prof. [**Shengli Liu**](http://english.seiee.sjtu.edu.cn/english/detail/841_671.htm)
 
+## Teaching
+
+- **NIS7019: Cryptographic Algorithms** (Graduate, Spring 2021, Spring 2022, Spring 2023)  
+
+- **NIS4333: Modern Cryptography** (Undergraduate, Spring 2023)  
+
+- **MATH6010: Graph and Networks** (Graduate, Autumn 2021)  
+
+- **CS1501: Thinking and Methodology in Programming (C++)**	(Undergraduate, Autumn 2021)  
+
 ## Conference Papers
 
 - **Almost Tight Multi-User Security under Adaptive Corruptions from LWE in the Standard Model**  
@@ -191,4 +201,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_.
 
 
-Last updated: May 2023
+Last updated: Jun 2023
