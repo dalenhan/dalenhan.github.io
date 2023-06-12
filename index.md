@@ -27,13 +27,13 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Teaching
 
-- **NIS7019: Cryptographic Algorithms** (Graduate, Spring 2021, Spring 2022, Spring 2023)  
+- NIS7019: Cryptographic Algorithms (Graduate, Spring 2021, Spring 2022, Spring 2023)  
 
-- **NIS4333: Modern Cryptography** (Undergraduate, Spring 2023)  
+- NIS4333: Modern Cryptography (Undergraduate, Spring 2023)  
 
-- **MATH6010: Graph and Networks** (Graduate, Autumn 2021)  
+- MATH6010: Graph and Networks (Graduate, Autumn 2021)  
 
-- **CS1501: Thinking and Methodology in Programming (C++)**	(Undergraduate, Autumn 2021)  
+- CS1501: Thinking and Methodology in Programming (C++)	(Undergraduate, Autumn 2021)  
 
 ## Conference Papers
 
