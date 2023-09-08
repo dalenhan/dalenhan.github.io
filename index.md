@@ -37,7 +37,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
-- **Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE**  
+- **Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE**  [[eprint](https://eprint.iacr.org/2023/1324)]  
   Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang  
   In _Proceedings of the 29th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2023](https://asiacrypt.iacr.org/2023/))
   
