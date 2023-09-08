@@ -37,7 +37,11 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
-- **Almost Tight Multi-User Security under Adaptive Corruptions from LWE in the Standard Model**  
+- **Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE**  
+  Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang  
+  In _Proceedings of the 29th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2023](https://asiacrypt.iacr.org/2023/))
+  
+- **Almost Tight Multi-User Security under Adaptive Corruptions from LWE in the Standard Model**  [[eprint](https://eprint.iacr.org/2023/1230)]  
   Shuai Han, Shengli Liu, Zhedong Wang, and Dawu Gu  
   In _Proceedings of the 43rd International Cryptology Conference_ ([**CRYPTO** 2023](https://crypto.iacr.org/2023/))
   
@@ -195,10 +199,10 @@ I have served as program committee member and external reviewer for several cryp
   **Inscrypt** 2021,  **APKC** 2022-2023,  **AsiaJCIS** 2022,  **SocialSec** 2022.
 
 - Conference external reviewer:  
-  **Pairing** 2013,  **ASIACRYPT** 2014-2017, 2021-2022,  **CRYPTO** 2016, 2021,  **ISPEC** 2016,  **ACISP** 2016-2017, 2020, **TCC** 2017, **ICISC** 2019, **EUROCRYPT** 2020-2023, **PKC** 2020,  **ProvSec** 2020.
+  **Pairing** 2013,  **ASIACRYPT** 2014-2017, 2021-2023,  **CRYPTO** 2016, 2021,  **ISPEC** 2016,  **ACISP** 2016-2017, 2020, **TCC** 2017, 2023, **ICISC** 2019, **EUROCRYPT** 2020-2023, **PKC** 2020,  **ProvSec** 2020.
 
 - Journal external reviewer:   
-  _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_.
+  _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
 
 
-Last updated: Jun 2023
+Last updated: Sep 2023
