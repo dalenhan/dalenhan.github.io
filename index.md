@@ -123,7 +123,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
-- **Leakage-Resilient CCA-Secure Inner-Product Functional Encryption**  [paper, in Chinese](http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000647)  
+- **Leakage-Resilient CCA-Secure Inner-Product Functional Encryption**  [[paper, in Chinese](http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000647)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
   _Journal of Cryptologic Research_ (2023)
   
