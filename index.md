@@ -123,6 +123,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Leakage-Resilient CCA-Secure Inner-Product Functional Encryption**  
+  Shuai Han, Shengli Liu, and Dawu Gu  
+  [_Journal of Cryptologic Research_](http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000647) (2023)
+  
 - **Simulatable Verifiable Random Function from the LWE Assumption**  
   Yiming Li, Shengli Liu, Shuai Han, Dawu Gu, and Jian Weng  
   _Theoretical Computer Science_ (2023)
@@ -205,4 +209,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
 
 
-Last updated: Sep 2023
+Last updated: Nov 2023
