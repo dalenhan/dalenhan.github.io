@@ -200,13 +200,13 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 I have served as program committee member and external reviewer for several cryptography conferences and journals.  
 
 - Program committee member:  
-  **Inscrypt** 2021,  **APKC** 2022-2023,  **AsiaJCIS** 2022,  **SocialSec** 2022.
+  **Inscrypt** 2021,  **APKC** 2022, 2023, 2024,  **AsiaJCIS** 2022,  **SocialSec** 2022.
 
 - Conference external reviewer:  
-  **Pairing** 2013,  **ASIACRYPT** 2014-2017, 2021-2023,  **CRYPTO** 2016, 2021,  **ISPEC** 2016,  **ACISP** 2016-2017, 2020, **TCC** 2017, 2023, **ICISC** 2019, **EUROCRYPT** 2020-2023, **PKC** 2020,  **ProvSec** 2020.
+  **CRYPTO**,  **EUROCRYPT**,  **ASIACRYPT**,  **PKC**,  **TCC**,  **ACISP**,  **ICISC**,  **ISPEC**,  **Pairing**,  **ProvSec**.
 
 - Journal external reviewer:   
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
 
 
-Last updated: Nov 2023
+Last updated: Dec 2023
