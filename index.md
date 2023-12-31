@@ -203,7 +203,7 @@ I have served as program committee member and external reviewer for several cryp
   **Inscrypt** 2021,  **APKC** 2022, 2023, 2024,  **AsiaJCIS** 2022,  **SocialSec** 2022.
 
 - Conference external reviewer:  
-  **CRYPTO**,  **EUROCRYPT**,  **ASIACRYPT**,  **PKC**,  **TCC**,  **ACISP**,  **ICISC**,  **ISPEC**,  **Pairing**,  **ProvSec**.
+  CRYPTO, EUROCRYPT, ASIACRYPT, PKC, TCC, ACISP, ICISC, ISPEC, Pairing, ProvSec.
 
 - Journal external reviewer:   
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
