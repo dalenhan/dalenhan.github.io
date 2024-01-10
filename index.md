@@ -37,6 +37,14 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **More Efficient Public-Key Cryptography with Leakage and Tamper Resilience**  [[eprint](https://eprint.iacr.org/2023/1965)]  
+  Shuai Han, Shengli Liu, and Dawu Gu  
+  In _Proceedings of the 27th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2024](https://pkc.iacr.org/2024/))
+  
+- **Multi-Hop Fine-Grained Proxy Re-Encryption**  
+  Yunxiao Zhou, Shengli Liu, and Shuai Han  
+  In _Proceedings of the 27th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2024](https://pkc.iacr.org/2024/))
+  
 - **Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE**  [[eprint](https://eprint.iacr.org/2023/1324)]  
   Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang  
   In _Proceedings of the 29th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2023](https://asiacrypt.iacr.org/2023/))
@@ -209,4 +217,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
 
 
-Last updated: Dec 2023
+Last updated: Jan 2024
