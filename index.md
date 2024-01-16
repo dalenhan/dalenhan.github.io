@@ -41,7 +41,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
   Shuai Han, Shengli Liu, and Dawu Gu  
   In _Proceedings of the 27th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2024](https://pkc.iacr.org/2024/))
   
-- **Multi-Hop Fine-Grained Proxy Re-Encryption**  
+- **Multi-Hop Fine-Grained Proxy Re-Encryption**  [[eprint](https://eprint.iacr.org/2024/055)]  
   Yunxiao Zhou, Shengli Liu, and Shuai Han  
   In _Proceedings of the 27th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2024](https://pkc.iacr.org/2024/))
   
