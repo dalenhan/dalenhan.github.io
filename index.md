@@ -1,7 +1,5 @@
-<font size=3 > I am an assistant professor at Shanghai Jiao Tong University. </font>  <br/>
-
-<font size=3 > Before that, I was a postdoc at Karlsruhe Institute of Technology (Germany), hosted by Dennis Hofheinz. Prior to that, I obtained my PhD from Shanghai Jiao Tong University, supervised by Shengli Liu. </font>  <br/>
-
+<font size=2 > I am an assistant professor at Shanghai Jiao Tong University. </font>  <br/>
+<font size=2 > Before that, I was a postdoc at Karlsruhe Institute of Technology (Germany), hosted by Dennis Hofheinz. Prior to that, I obtained my PhD from Shanghai Jiao Tong University, supervised by Shengli Liu. </font>  <br/>
 ## Research Interest
 
 My research interests focus on public-key cryptography with provable security. 
