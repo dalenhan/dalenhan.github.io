@@ -1,7 +1,6 @@
-<font size=4 > I am an assistant professor at Shanghai Jiao Tong University. </font> 
+<font size=5 > I am an assistant professor at Shanghai Jiao Tong University. </font>  
 
-<font size=4 > Before that, I was a postdoc at Karlsruhe Institute of Technology (Germany), hosted by Dennis Hofheinz. Prior to that, I obtained my PhD from Shanghai Jiao Tong University, supervised by Shengli Liu. </font> 
-
+<font size=5 > Before that, I was a postdoc at Karlsruhe Institute of Technology (Germany), hosted by Dennis Hofheinz. Prior to that, I obtained my PhD from Shanghai Jiao Tong University, supervised by Shengli Liu. </font>   
 
 ## Research Interest
 
