@@ -27,9 +27,9 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Teaching
 
-- NIS7019: **Cryptographic Algorithms** (Graduate, Spring 2021, Spring 2022, Spring 2023)  
+- NIS7019: **Cryptographic Algorithms** (Graduate, Spring 2021, Spring 2022, Spring 2023, Spring 2024)  
 
-- NIS4333: **Modern Cryptography** (Undergraduate, Spring 2023)  
+- NIS4333: **Modern Cryptography** (Undergraduate, Spring 2023, Spring 2024)  
 
 - MATH6010: **Graph and Networks** (Graduate, Autumn 2021)  
 
@@ -37,6 +37,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
 
+- **Universal Composable Password Authenticated Key Exchange for the Post-Quantum World**  [[eprint](https://eprint.iacr.org/2024/374)]  
+  You Lyu, Shengli Liu, and Shuai Han  
+  In _Proceedings of the 43rd Annual International Conference on the Theory and Applications of Cryptographic Techniques_ ([**EUROCRYPT** 2024](https://eurocrypt.iacr.org/2024/))
+  
 - **More Efficient Public-Key Cryptography with Leakage and Tamper Resilience**  [[eprint](https://eprint.iacr.org/2023/1965)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
   In _Proceedings of the 27th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2024](https://pkc.iacr.org/2024/))
