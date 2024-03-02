@@ -9,7 +9,9 @@ In particular, I am interested in the design of cryptographic schemes
 
 ## Experience
 
-Tenure-track assistant professor, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Jul 2020 - Present
+Tenure-track associate professor, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Jan 2024 - Present
+
+Tenure-track assistant professor, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Jul 2020 - Dec 2023
 
 Cyptographic algorithm engineer, [**Ant Group**](https://www.antgroup.com/en), China, Dec 2018 - Jun 2020
 
