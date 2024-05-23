@@ -137,6 +137,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Biometric-Based Two-Factor Authentication Scheme under Database Leakage**  
+  Mingming Jiang, Shengli Liu, Shuai Han, and Dawu Gu  
+  _Theoretical Computer Science_ (2024)
+  
 - **Leakage-Resilient CCA-Secure Inner-Product Functional Encryption**  [[paper, in Chinese](http://www.jcr.cacrnet.org.cn/EN/10.13868/j.cnki.jcr.000647)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
   _Journal of Cryptologic Research_ (2023)
@@ -223,4 +227,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
 
 
-Last updated: Mar 2024
+Last updated: May 2024
