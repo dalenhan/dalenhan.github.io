@@ -1,5 +1,3 @@
-# Short CV
-
 ## Research Interest
 
 My research interests focus on public-key cryptography with provable security. 
@@ -41,6 +39,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Conference Papers
   
+- **Reusable Fuzzy Extractor from Isogeny**  
+  Yu Zhou, Shengli Liu, and Shuai Han  
+  [**ProvSec** 2024](https://provsec2024.github.io/ProvSec2024/)
+
 - **Universal Composable Password Authenticated Key Exchange for the Post-Quantum World**  [[eprint](https://eprint.iacr.org/2024/374)]  
   You Lyu, Shengli Liu, and Shuai Han  
   [**EUROCRYPT** 2024](https://eurocrypt.iacr.org/2024/)
