@@ -112,6 +112,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
   [**ACNS** 2019](https://www.acns19.com/)
 
 - **Tightly SIM-SO-CCA Secure Public Key Encryption from Standard Assumptions**  [[eprint](https://eprint.iacr.org/2018/030)]  
+  Lin Lyu, Shengli Liu, Shuai Han, and Dawu Gu  
   [**PKC** 2018](https://pkc.iacr.org/2018/)
 
 - **KDM-Secure Public-Key Encryption from Constant-Noise LPN**  [[eprint](https://eprint.iacr.org/2017/310)]  
