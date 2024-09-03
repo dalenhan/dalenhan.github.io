@@ -1,3 +1,5 @@
+# Short CV
+
 ## Research Interest
 
 My research interests focus on public-key cryptography with provable security. 
@@ -22,7 +24,7 @@ Postdoctoral researcher, [**Karlsruhe Institute of Technology**](http://www.kit.
 
 PH.D. in Computer Science, [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2012 - Sep 2017
 - Advisor: Prof. [**Shengli Liu**](http://english.seiee.sjtu.edu.cn/english/detail/841_671.htm)
-- PH.D. dissertation: **Public-Key Encryption: KDM Security and RKA Security**  [[pdf, in Chinese](https://drive.google.com/file/d/0B2HM31q0Q1sUWEFVVVR6d1dHQTQ/view)] [[slides, in Chinese](https://drive.google.com/file/d/0B2HM31q0Q1sUTVNOenNzbU8xcnc/view)]
+- PH.D. dissertation: **Public-Key Encryption: KDM Security and RKA Security**  [[pdf, in Chinese](https://drive.google.com/file/d/0B2HM31q0Q1sUWEFVVVR6d1dHQTQ/view)]
 
 B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu.cn/goto/en)), [**Shanghai Jiao Tong University**](http://en.sjtu.edu.cn/), China, Sep 2008 - Jun 2012
 - Thesis Supervisor: Prof. [**Shengli Liu**](http://english.seiee.sjtu.edu.cn/english/detail/841_671.htm)
@@ -38,105 +40,108 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 - CS1501: **Thinking and Methodology in Programming (C++)**	(Undergraduate, Autumn 2021)  
 
 ## Conference Papers
-
+  
 - **Universal Composable Password Authenticated Key Exchange for the Post-Quantum World**  [[eprint](https://eprint.iacr.org/2024/374)]  
   You Lyu, Shengli Liu, and Shuai Han  
-  In _Proceedings of the 43rd Annual International Conference on the Theory and Applications of Cryptographic Techniques_ ([**EUROCRYPT** 2024](https://eurocrypt.iacr.org/2024/))
+  [**EUROCRYPT** 2024](https://eurocrypt.iacr.org/2024/)
   
 - **More Efficient Public-Key Cryptography with Leakage and Tamper Resilience**  [[eprint](https://eprint.iacr.org/2023/1965)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
-  In _Proceedings of the 27th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2024](https://pkc.iacr.org/2024/))
+  [**PKC** 2024](https://pkc.iacr.org/2024/)
   
 - **Multi-Hop Fine-Grained Proxy Re-Encryption**  [[eprint](https://eprint.iacr.org/2024/055)]  
   Yunxiao Zhou, Shengli Liu, and Shuai Han  
-  In _Proceedings of the 27th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2024](https://pkc.iacr.org/2024/))
+  [**PKC** 2024](https://pkc.iacr.org/2024/)
   
 - **Fine-Grained Proxy Re-Encryption: Definitions & Constructions from LWE**  [[eprint](https://eprint.iacr.org/2023/1324)]  
   Yunxiao Zhou, Shengli Liu, Shuai Han, and Haibin Zhang  
-  In _Proceedings of the 29th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2023](https://asiacrypt.iacr.org/2023/))
+  [**ASIACRYPT** 2023](https://asiacrypt.iacr.org/2023/)
   
 - **Almost Tight Multi-User Security under Adaptive Corruptions from LWE in the Standard Model**  [[eprint](https://eprint.iacr.org/2023/1230)]  
   Shuai Han, Shengli Liu, Zhedong Wang, and Dawu Gu  
-  In _Proceedings of the 43rd International Cryptology Conference_ ([**CRYPTO** 2023](https://crypto.iacr.org/2023/))
+  [**CRYPTO** 2023](https://crypto.iacr.org/2023/)
   
 - **Almost Tight Multi-User Security under Adaptive Corruptions & Leakages in the Standard Model**  [[eprint](https://eprint.iacr.org/2023/153)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
-  In _Proceedings of the 42nd Annual International Conference on the Theory and Applications of Cryptographic Techniques_ ([**EUROCRYPT** 2023](https://eurocrypt.iacr.org/2023/))
+  [**EUROCRYPT** 2023](https://eurocrypt.iacr.org/2023/)
   
 - **Fine-grained Verifier NIZK and Its Applications**  
   Xiangyu Liu, Shengli Liu, Shuai Han, and Dawu Gu  
-  In _Proceedings of the 26th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2023](https://pkc.iacr.org/2023/))
+  [**PKC** 2023](https://pkc.iacr.org/2023/)
   
 - **EKE Meets Tight Security in the Universally Composable Framework**  [[eprint](https://eprint.iacr.org/2023/170)]  
   Xiangyu Liu, Shengli Liu, Shuai Han, and Dawu Gu  
-  In _Proceedings of the 26th International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2023](https://pkc.iacr.org/2023/))
+  [**PKC** 2023](https://pkc.iacr.org/2023/)
   
 - **Privacy-Preserving Authenticated Key Exchange in the Standard Model**  [[eprint](https://eprint.iacr.org/2022/1217)]  
   You Lyu, Shengli Liu, Shuai Han, and Dawu Gu  
-  In _Proceedings of the 28th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2022](https://asiacrypt.iacr.org/2022/))
+  [**ASIACRYPT** 2022](https://asiacrypt.iacr.org/2022/)
   
 - **Anonymous Public Key Encryption under Corruptions**  [[eprint](https://eprint.iacr.org/2022/1176)]  
   Zhengan Huang, Junzuo Lai, Shuai Han, Lin Lyu, and Jian Weng  
-  In _Proceedings of the 28th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2022](https://asiacrypt.iacr.org/2022/))
+  [**ASIACRYPT** 2022](https://asiacrypt.iacr.org/2022/)
   
 - **Fuzzy Authenticated Key Exchange with Tight Security**  
   Mingming Jiang, Shengli Liu, Shuai Han, and Dawu Gu  
-  In _Proceedings of the 27th European Symposium on Research in Computer Security_ ([**ESORICS** 2022](https://esorics2022.compute.dtu.dk/))
+  [**ESORICS** 2022](https://esorics2022.compute.dtu.dk/)
   
 - **Key Encapsulation Mechanism with Tight Enhanced Security in the Multi-User Setting: Impossibility Result and Optimal Tightness**  [[eprint](https://eprint.iacr.org/2021/1146)]  
   Shuai Han, Shengli Liu, and Dawu Gu  
-  In _Proceedings of the 27th International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2021](https://asiacrypt.iacr.org/2021/))
+  [**ASIACRYPT** 2021](https://asiacrypt.iacr.org/2021/)
   
 - **Optimized Paillier's Cryptosystem with Fast Encryption and Decryption**  
   Huanyu Ma, Shuai Han, and Hao Lei  
-  In _Proceedings of the 37th Annual Computer Security Applications Conference_ ([**ACSAC** 2021](https://www.acsac.org/2021/))
+  [**ACSAC** 2021](https://www.acsac.org/2021/)
 
 - **Authenticated Key Exchange and Signatures with Tight Security in the Standard Model**  [[eprint](https://eprint.iacr.org/2021/863)]  
   Shuai Han, Tibor Jager, Eike Kiltz, Shengli Liu, Jiaxin Pan, Doreen Riepel, and Sven Schäge  
-  In _Proceedings of the 41st International Cryptology Conference_ ([**CRYPTO** 2021](https://crypto.iacr.org/2021/))
+  [**CRYPTO** 2021](https://crypto.iacr.org/2021/)
 
 - **Authentication System Based on Fuzzy Extractors**  
   Mingming Jiang, Shengli Liu, Shuai Han, and Dawu Gu  
-  In _Proceedings of the 16th International Conference on Wireless Algorithms, Systems, and Applications_ ([**WASA** 2021](http://wasa-conference.org/WASA2021/))
+  [**WASA** 2021](http://wasa-conference.org/WASA2021/)
 
 - **Tight Leakage-Resilient CCA-Security from Quasi-Adaptive Hash Proof System**  [[eprint](https://eprint.iacr.org/2019/512)]  
   Shuai Han, Shengli Liu, Lin Lyu, and Dawu Gu  
-  In _Proceedings of the 39th International Cryptology Conference_ ([**CRYPTO** 2019](https://crypto.iacr.org/2019/))
+  [**CRYPTO** 2019](https://crypto.iacr.org/2019/)
 
 - **Strong Leakage and Tamper-Resilient Public Key Encryption from Reﬁned Hash Proof Systems**  
   Shi-Feng Sun, Dawu Gu, Man Ho Au, Shuai Han, Yu Yu, and Joseph Liu  
-  In _Proceedings of the 17th International Conference on Applied Cryptography and Network Security_ ([**ACNS** 2019](https://www.acns19.com/))
+  [**ACNS** 2019](https://www.acns19.com/)
 
 - **Tightly SIM-SO-CCA Secure Public Key Encryption from Standard Assumptions**  [[eprint](https://eprint.iacr.org/2018/030)]  
-  Lin Lyu, Shengli Liu, Shuai Han, and Dawu Gu  
-  In _Proceedings of the 21st International Conference on Practice and Theory in Public-Key Cryptography_ ([**PKC** 2018](https://pkc.iacr.org/2018/))
+  [**PKC** 2018](https://pkc.iacr.org/2018/)
 
-- **KDM-Secure Public-Key Encryption from Constant-Noise LPN**  [[eprint](https://eprint.iacr.org/2017/310)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUU2Zwelh5WFctX3M/view)]  
+- **KDM-Secure Public-Key Encryption from Constant-Noise LPN**  [[eprint](https://eprint.iacr.org/2017/310)]  
   Shuai Han, and Shengli Liu  
-  In _Proceedings of the 22nd Australasian Conference on Information Security and Privacy_ ([**ACISP** 2017](http://acisp.massey.ac.nz/))
+  [**ACISP** 2017](http://acisp.massey.ac.nz/)
 
-- **Efficient KDM-CCA Secure Public-Key Encryption for Polynomial Functions**  [[eprint](https://eprint.iacr.org/2016/829)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUczVfRW5fWENaeE0/view)]  
+- **Efficient KDM-CCA Secure Public-Key Encryption for Polynomial Functions**  [[eprint](https://eprint.iacr.org/2016/829)]  
   Shuai Han, Shengli Liu, and Lin Lyu  
-  In _Proceedings of the 22nd International Conference on the Theory and Application of Cryptology and Information Security_ ([**ASIACRYPT** 2016](https://www.iacr.org/conferences/asiacrypt2016/www.asiacrypt2016.org/index.html))
+  [**ASIACRYPT** 2016](https://www.iacr.org/conferences/asiacrypt2016/www.asiacrypt2016.org/index.html)
 
 - **How to Make the Cramer-Shoup Cryptosystem Secure Against Linear Related-Key Attacks**  
   Baodong Qin, Shuai Han, Yu Chen, Shengli Liu, and Zhuo Wei  
-  In _Proceedings of the 12th International Conference on Information Security and Cryptology_ ([**INSCRYPT** 2016](http://www.inscrypt.cn/))
+  [**INSCRYPT** 2016](http://www.inscrypt.cn/)
 
-- **Homomorphic Linear Authentication Schemes from epsilon-Authentication Codes**  [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sURV9VTU9XUFBCVnc/view)]  
+- **Homomorphic Linear Authentication Schemes from epsilon-Authentication Codes**  
   Shuai Han, Shengli Liu, Fangguo Zhang, and Kefei Chen  
-  In _Proceedings of the 11th ACM on Asia Conference on Computer and Communications Security_ ([**ASIACCS** 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/))
+  [**ASIACCS** 2016](http://meeting.xidian.edu.cn/conference/AsiaCCS2016/)
 
-- **An Efficient Key-Versatile KDM-Secure Storage Scheme**  [[pdf](https://drive.google.com/file/d/0B2HM31q0Q1sUTmVvX2FyNDVzM0k/view)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUcmJ0Y2F0cXJjOUk/view)]  
+- **An Efficient Key-Versatile KDM-Secure Storage Scheme**  
   Chenglong Ying, Shengli Liu, and Shuai Han  
-  In _Proceedings of the International Conference on Computational Science and Engineering Applications_ ([**CSEA** 2015](https://www.destechpub.com/product/international-conference-computational-science-engineering-applications-csea-2015/))
+  [**CSEA** 2015](https://www.destechpub.com/product/international-conference-computational-science-engineering-applications-csea-2015/)
 
-- **Proofs of Retrievability Based on MRD Codes**  [[eprint](https://eprint.iacr.org/2013/789)] [[slides](https://drive.google.com/file/d/0B2HM31q0Q1sUY0JrYlZqWUljck0/view)]  
+- **Proofs of Retrievability Based on MRD Codes**  [[eprint](https://eprint.iacr.org/2013/789)]  
   Shuai Han, Shengli Liu, Kefei Chen, and Dawu Gu  
-  In _Proceedings of the 10th International Conference on Information Security Practice and Experience_ ([**ISPEC** 2014](http://trust.csu.edu.cn/conference/ispec2014/))
+  [**ISPEC** 2014](http://trust.csu.edu.cn/conference/ispec2014/)
 
 ## Journal Papers
 
+- **Robustly Reusable Fuzzy Extractor from Isogeny**  
+  Yu Zhou, Shengli Liu, and Shuai Han  
+  _Theoretical Computer Science_ (2024)
+  
 - **Biometric-Based Two-Factor Authentication Scheme under Database Leakage**  
   Mingming Jiang, Shengli Liu, Shuai Han, and Dawu Gu  
   _Theoretical Computer Science_ (2024)
@@ -218,7 +223,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 I have served as program committee member and external reviewer for several cryptography conferences and journals.  
 
 - Program committee member:  
-  **Inscrypt** 2021,  **APKC** 2022, 2023, 2024,  **AsiaJCIS** 2022,  **SocialSec** 2022.
+  **Inscrypt** 2021,  **APKC** 2022, 2023, 2024,  **AsiaJCIS** 2022,  **SocialSec** 2022,  **ACNS** 2025.
 
 - Conference external reviewer:  
   CRYPTO, EUROCRYPT, ASIACRYPT, PKC, TCC, ACISP, ICISC, ISPEC, Pairing, ProvSec.
@@ -227,4 +232,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
 
 
-Last updated: May 2024
+Last updated: Aug 2024
