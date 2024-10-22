@@ -16,7 +16,7 @@ Tenure-track assistant professor, [**Shanghai Jiao Tong University**](http://en.
 Cyptographic algorithm engineer, [**Ant Group**](https://www.antgroup.com/en), China, Dec 2018 - Jun 2020
 
 Postdoctoral researcher, [**Karlsruhe Institute of Technology**](http://www.kit.edu/english/), Germany, Oct 2017 - Sep 2018
-- Advisor: Prof. [**Dennis Hofheinz**](https://crypto.iti.kit.edu/index.php?id=hofheinz)
+- Host: Prof. [**Dennis Hofheinz**](https://crypto.iti.kit.edu/index.php?id=hofheinz)
 
 ## Education
 
@@ -38,11 +38,19 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 - CS1501: **Thinking and Methodology in Programming (C++)**	(Undergraduate, Autumn 2021)  
 
 ## Conference Papers
+
+- **Anamorphic Authenticated Key Exchange: Double Key Distribution under Surveillance**  [[eprint](https://eprint.iacr.org/2024/1438)]  
+  Weihao Wang, Shuai Han, and Shengli Liu  
+  [**ASIACRYPT** 2024](https://asiacrypt.iacr.org/2024/)
+  
+- **Efficient Asymmetric PAKE Compiler from KEM and AE**  [[eprint](https://eprint.iacr.org/2024/1400)]  
+  You Lyu, Shengli Liu, and Shuai Han  
+  [**ASIACRYPT** 2024](https://asiacrypt.iacr.org/2024/)
   
 - **Reusable Fuzzy Extractor from Isogeny**  
   Yu Zhou, Shengli Liu, and Shuai Han  
   [**ProvSec** 2024](https://provsec2024.github.io/ProvSec2024/)
-
+  
 - **Universal Composable Password Authenticated Key Exchange for the Post-Quantum World**  [[eprint](https://eprint.iacr.org/2024/374)]  
   You Lyu, Shengli Liu, and Shuai Han  
   [**EUROCRYPT** 2024](https://eurocrypt.iacr.org/2024/)
@@ -141,6 +149,10 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 
 ## Journal Papers
 
+- **Functional Commitments for Arbitrary Circuits of Bounded Sizes**  
+  Jinrui Sha, Shengli Liu, and Shuai Han  
+  _Designs, Codes and Cryptography_ (2024)
+
 - **Robustly Reusable Fuzzy Extractor from Isogeny**  
   Yu Zhou, Shengli Liu, and Shuai Han  
   _Theoretical Computer Science_ (2024)
@@ -226,7 +238,7 @@ B.S. in Mathematics & in Physics ([Zhiyuan Honors Class](http://zhiyuan.sjtu.edu
 I have served as program committee member and external reviewer for several cryptography conferences and journals.  
 
 - Program committee member:  
-  **Inscrypt** 2021,  **APKC** 2022, 2023, 2024,  **AsiaJCIS** 2022,  **SocialSec** 2022,  **ACNS** 2025.
+  **Inscrypt** 2021,  **APKC** 2022, 2023, 2024,  **AsiaJCIS** 2022,  **SocialSec** 2022,  **ACNS** 2025,  **PKC** 2025.
 
 - Conference external reviewer:  
   CRYPTO, EUROCRYPT, ASIACRYPT, PKC, TCC, ACISP, ICISC, ISPEC, Pairing, ProvSec.
@@ -235,4 +247,4 @@ I have served as program committee member and external reviewer for several cryp
   _IEEE Transactions on Information Forensics and Security_, _Designs, Codes and Cryptography_, _Security and Communication Networks_, _Frontiers of Computer Science_, _IEEE Wireless Communications Magazine_, _Theoretical Computer Science_.
 
 
-Last updated: Aug 2024
+Last updated: Oct 2024
